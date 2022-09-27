@@ -1,0 +1,1 @@
+export const secret = "classic-model-scret-key";
